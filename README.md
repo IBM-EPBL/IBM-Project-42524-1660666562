@@ -19,6 +19,7 @@ IBM Cognos: IBM Cognos Business Intelligence is a web-based integrated business 
 IBM Cloud: IBM cloud computing is a set of cloud computing services for business offered by the information technology company IBM. IBM Cloud includes infrastructure as a service (IaaS), software as a service (SaaS) and platform as a service (PaaS) offered through public, private and hybrid cloud delivery models, in addition to the components that make up those clouds.
 
 Website deployed link : https://naveen-r-s-2001.github.io/IBM_PRO/
+(Note to view the dashboard and story login in with your IBM loginID and password in the popup generated)
 
 Demo Video link : https://drive.google.com/file/d/1g3tmdVj_axxfV7QzeN05KnuwWDONMl_a/view?usp=sharing 
 
